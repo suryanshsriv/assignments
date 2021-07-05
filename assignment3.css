@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one 
+{
+    height:500px;
+    width:100%;
+    background-color:gray;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+
+}
+
+
+
+
+.ele
+{
+    height:200px;
+    width:15%;
+    background-color: red;
+}
+.two
+{
+    /* height:500px; */
+    width:100%;
+    background-color:black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.ele2
+
+{
+    height: 300px;
+    width: 20%;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 4%;
+}
+
+    
